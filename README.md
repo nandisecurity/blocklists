@@ -1,0 +1,2 @@
+# blocklists
+Curated app blocklists
