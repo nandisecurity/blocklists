@@ -1,0 +1,6 @@
+0.0.0.0 apicache.vudu.com
+0.0.0.0 images2.vudu.com
+0.0.0.0 vudu.d1.sc.omtrdc.net
+0.0.0.0 api.vudu.com
+0.0.0.0 www.vudu.com
+0.0.0.0 vudu.com
